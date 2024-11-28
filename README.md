@@ -27,6 +27,12 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 This project is open-source
 
+## How to Run the Code
+1. Clone this repository to your local machine.
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me:
 - **Email**: rukemeagaren@gmail.com
