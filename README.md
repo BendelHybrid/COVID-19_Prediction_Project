@@ -32,5 +32,3 @@ If you have any questions or suggestions, feel free to reach out to me:
 - **Email**: rukemeagaren@gmail.com
 - **GitHub**: [BendelHybrid](https://github.com/BendelHybrid)
 ```
-
-Simply copy this text and paste it into your `README.md` file in the root of your repository. Let me know if you need further assistance!
