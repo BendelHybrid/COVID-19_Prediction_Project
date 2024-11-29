@@ -1,4 +1,5 @@
 # COVID-19 Prediction Project
+![image](https://github.com/user-attachments/assets/b010f809-404c-4277-be79-e1eab362851c)
 
 ## Overview
 This project uses historical data to predict COVID-19 trends, specifically the number of confirmed cases and deaths. The goal is to create a predictive model that forecasts future trends in the pandemic, helping stakeholders make informed decisions.
