@@ -17,9 +17,8 @@ All the datasets used in this project are housed here:
 Here’s a breakdown of the important files and folders:
 - `data/`: Contains all raw data files used in the project.
 - `notebooks/`: Jupyter notebooks with data exploration, cleaning, and analysis.
-- `src/`: The Python scripts with the main code for model building and predictions.
+- `visuals/`: contains all the visualizations done
 - `requirements.txt`: Lists the Python libraries required to run the code.
-- `main.py`: The main script to run the project and generate predictions.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. I welcome any improvements, bug fixes, or new ideas.
